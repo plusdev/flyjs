@@ -1,5 +1,5 @@
 {
-  "name": "fly-dom",
+  "name": "fly-dom-xp",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "17c319b25c5d18dce4b7677e709720fe0ccf20b9"
 }
