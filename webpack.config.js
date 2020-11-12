@@ -53,7 +53,7 @@ module.exports = {
     ],
     resolve: {
         alias: {
-            // 'vue$': 'vue/dist/vue.js' 
+            // 'vue$': 'vue/dist/vue.js'
             'fly-core': path.resolve(__dirname, 'packages/fly-core/'),
             'fly-dom': path.resolve(__dirname, 'packages/fly-dom/'),
             'fly-store': path.resolve(__dirname, 'packages/fly-store/'),
@@ -64,7 +64,7 @@ module.exports = {
     // resolveLoader: {
     //     modules: [
     //         './src/fly/loader',
-    //         './node_modules',             
+    //         './node_modules',
     //     ]
     // }
 }

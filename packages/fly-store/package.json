@@ -1,11 +1,12 @@
 {
   "name": "fly-store",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "17c319b25c5d18dce4b7677e709720fe0ccf20b9"
 }
