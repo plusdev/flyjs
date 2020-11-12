@@ -1,0 +1,5 @@
+73 error Error: Command failed: git tag v1.0.6 -m v1.0.6
+73 error fatal: tag 'v1.0.6' already exists
+73 error
+73 error     at makeError (C:\Users\think\AppData\Roaming\nvm\v10.15.2\node_modules\lerna\node_modules\execa\index.js:174:9)
+73 error     at Promise.all.then.arr (C:\Users\think\AppData\Roaming\nvm\v10.15.2\node_modules\lerna\node_modules\execa\index.js:278:16)
