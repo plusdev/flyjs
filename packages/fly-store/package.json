@@ -1,5 +1,5 @@
 {
-  "name": "fly-store",
+  "name": "temp-fly-store",
   "version": "1.0.6",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "4f0d3d27d6a0d1983a2df5c08986a7d5a1bbe33d"
+  "gitHead": "22c81d63821a363848c770b26c115e7ea229aa3c"
 }
