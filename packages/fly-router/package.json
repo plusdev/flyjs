@@ -1,6 +1,6 @@
 {
-  "name": "fly-router-xp",
-  "version": "1.0.4",
+  "name": "fly-router",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/index.js",
   "scripts": {

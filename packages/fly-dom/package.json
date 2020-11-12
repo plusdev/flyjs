@@ -1,6 +1,6 @@
 {
-  "name": "fly-dom-xp",
-  "version": "1.0.4",
+  "name": "fly-dom",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {

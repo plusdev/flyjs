@@ -1,6 +1,6 @@
 {
-  "name": "fly-store-xp",
-  "version": "1.0.4",
+  "name": "fly-store",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
